@@ -1,0 +1,74 @@
+% Masavakyas
+
+\def\mvMesaValue{365}
+\def\mvMesaVakya{\textit{\skta }}
+
+\def\svMesaValue{$1^d15^n$}
+\def\svMesaVakya{\textit{\skta }}
+
+\def\mvVrsabhaValue{31}
+\def\mvVrsabhaVakya{\textit{\skta }}
+
+\def\svVrsabhaValue{$3^d19^n$}
+\def\svVrsabhaVakya{\textit{\skta }}
+
+\def\mvMithunaValue{63}
+\def\mvMithunaVakya{\textit{\skta }}
+
+\def\svMithunaValue{$0^d3^n$}
+\def\svMithunaVakya{\textit{\skta }}
+
+\def\mvKarkataValue{95}
+\def\mvKarkataVakya{\textit{\skta }}
+
+\def\svKarkataValue{$3^d57^n$}
+\def\svKarkataVakya{\textit{\skta }}
+
+\def\mvSimhaValue{127}
+\def\mvSimhaVakya{\textit{\skta }}
+
+\def\svSimhaValue{$0^d46^n$}
+\def\svSimhaVakya{\textit{\skta }}
+
+\def\mvKanyaValue{158}
+\def\mvKanyaVakya{\textit{\skta }}
+
+\def\svKanyaValue{$4^d13^n$}
+\def\svKanyaVakya{\textit{\skta }}
+
+\def\mvTulaValue{189}
+\def\mvTulaVakya{\textit{\skta }}
+
+\def\svTulaValue{$0^d10^n$}
+\def\svTulaVakya{\textit{\skta }}
+
+\def\mvVrscikaValue{220}
+\def\mvVrscikaVakya{\textit{\skta }}
+
+\def\svVrscikaValue{$2^d36^n$}
+\def\svVrscikaVakya{\textit{\skta }}
+
+\def\mvDhanusValue{250}
+\def\mvDhanusVakya{\textit{\skta }}
+
+\def\svDhanusValue{$4^d38^n$}
+\def\svDhanusVakya{\textit{\skta }}
+
+\def\mvMakaraValue{280}
+\def\mvMakaraVakya{\textit{\skta }}
+
+\def\svMakaraValue{$6^d31^n$}
+\def\svMakaraVakya{\textit{\skta }}
+
+\def\mvKumbhaValue{309}
+\def\mvKumbhaVakya{\textit{\skta }}
+
+\def\svKumbhaValue{$1^d29^n$}
+\def\svKumbhaVakya{\textit{\skta }}
+
+\def\mvMinaValue{340}
+\def\mvMinaVakya{\textit{\skta }}
+
+\def\svMinaValue{$3^d48^n$}
+\def\svMinaVakya{\textit{\skta }}
+

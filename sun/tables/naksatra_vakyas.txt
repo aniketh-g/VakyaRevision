@@ -1,0 +1,83 @@
+% Naksatravakyas
+
+\def\nvAsviniValue{$1^d15^n$}
+\def\nvAsviniVakya{\textit{\skta }}
+
+\def\nvBharaniValue{$6^d51^n$}
+\def\nvBharaniVakya{\textit{\skta }}
+
+\def\nvKrttikaValue{$6^d49^n$}
+\def\nvKrttikaVakya{\textit{\skta }}
+
+\def\nvRohiniValue{$6^d51^n$}
+\def\nvRohiniVakya{\textit{\skta }}
+
+\def\nvMrgasiraValue{$6^d58^n$}
+\def\nvMrgasiraVakya{\textit{\skta }}
+
+\def\nvArdraValue{$0^d8^n$}
+\def\nvArdraVakya{\textit{\skta }}
+
+\def\nvPunarvasuValue{$0^d19^n$}
+\def\nvPunarvasuVakya{\textit{\skta }}
+
+\def\nvPusyaValue{$0^d30^n$}
+\def\nvPusyaVakya{\textit{\skta }}
+
+\def\nvAslesaValue{$0^d39^n$}
+\def\nvAslesaVakya{\textit{\skta }}
+
+\def\nvMaghaValue{$0^d46^n$}
+\def\nvMaghaVakya{\textit{\skta }}
+
+\def\nvPurvaphalguniValue{$0^d48^n$}
+\def\nvPurvaphalguniVakya{\textit{\skta }}
+
+\def\nvUttaraphalguniValue{$0^d45^n$}
+\def\nvUttaraphalguniVakya{\textit{\skta }}
+
+\def\nvHastaValue{$0^d35^n$}
+\def\nvHastaVakya{\textit{\skta }}
+
+\def\nvCitraValue{$0^d20^n$}
+\def\nvCitraVakya{\textit{\skta }}
+
+\def\nvSvatiValue{$6^d58^n$}
+\def\nvSvatiVakya{\textit{\skta }}
+
+\def\nvVaisakhaValue{$6^d30^n$}
+\def\nvVaisakhaVakya{\textit{\skta }}
+
+\def\nvAnuradhaValue{$5^d57^n$}
+\def\nvAnuradhaVakya{\textit{\skta }}
+
+\def\nvJyesthaValue{$5^d19^n$}
+\def\nvJyesthaVakya{\textit{\skta }}
+
+\def\nvMulaValue{$4^d38^n$}
+\def\nvMulaVakya{\textit{\skta }}
+
+\def\nvPurvasadhaValue{$3^d55^n$}
+\def\nvPurvasadhaVakya{\textit{\skta }}
+
+\def\nvUttarasadhaValue{$3^d12^n$}
+\def\nvUttarasadhaVakya{\textit{\skta }}
+
+\def\nvSravanaValue{$2^d29^n$}
+\def\nvSravanaVakya{\textit{\skta }}
+
+\def\nvDhanisthaValue{$1^d49^n$}
+\def\nvDhanisthaVakya{\textit{\skta }}
+
+\def\nvSatabhisaValue{$1^d11^n$}
+\def\nvSatabhisaVakya{\textit{\skta }}
+
+\def\nvPurvabhadrapadaValue{$0^d39^n$}
+\def\nvPurvabhadrapadaVakya{\textit{\skta }}
+
+\def\nvUttarabhadrapadaValue{$0^d11^n$}
+\def\nvUttarabhadrapadaVakya{\textit{\skta }}
+
+\def\nvRevatiValue{$6^d50^n$}
+\def\nvRevatiVakya{\textit{\skta }}
+
