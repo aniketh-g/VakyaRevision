@@ -1,74 +1,74 @@
-% Masavakyas
+% Rashivakyas
 
 \def\mvMesaValue{365}
 \def\mvMesaVakya{\textit{\skta }}
 
-\def\svMesaValue{$1^d15^n$}
+\def\svMesaValue{$1^d15^n23^v$}
 \def\svMesaVakya{\textit{\skta }}
 
 \def\mvVrsabhaValue{31}
 \def\mvVrsabhaVakya{\textit{\skta }}
 
-\def\svVrsabhaValue{$3^d19^n$}
+\def\svVrsabhaValue{$2^d51^n56^v$}
 \def\svVrsabhaVakya{\textit{\skta }}
 
-\def\mvMithunaValue{63}
+\def\mvMithunaValue{62}
 \def\mvMithunaVakya{\textit{\skta }}
 
-\def\svMithunaValue{$0^d3^n$}
+\def\svMithunaValue{$6^d08^n14^v$}
 \def\svMithunaVakya{\textit{\skta }}
 
-\def\mvKarkataValue{95}
+\def\mvKarkataValue{94}
 \def\mvKarkataVakya{\textit{\skta }}
 
-\def\svKarkataValue{$3^d57^n$}
+\def\svKarkataValue{$2^d35^n17^v$}
 \def\svKarkataVakya{\textit{\skta }}
 
-\def\mvSimhaValue{127}
+\def\mvSimhaValue{125}
 \def\mvSimhaVakya{\textit{\skta }}
 
-\def\svSimhaValue{$0^d46^n$}
+\def\svSimhaValue{$5^d56^n18^v$}
 \def\svSimhaVakya{\textit{\skta }}
 
-\def\mvKanyaValue{158}
+\def\mvKanyaValue{156}
 \def\mvKanyaVakya{\textit{\skta }}
 
-\def\svKanyaValue{$4^d13^n$}
+\def\svKanyaValue{$1^d56^n17^v$}
 \def\svKanyaVakya{\textit{\skta }}
 
-\def\mvTulaValue{189}
+\def\mvTulaValue{186}
 \def\mvTulaVakya{\textit{\skta }}
 
-\def\svTulaValue{$0^d10^n$}
+\def\svTulaValue{$4^d26^n22^v$}
 \def\svTulaVakya{\textit{\skta }}
 
-\def\mvVrscikaValue{220}
+\def\mvVrscikaValue{216}
 \def\mvVrscikaVakya{\textit{\skta }}
 
-\def\svVrscikaValue{$2^d36^n$}
+\def\svVrscikaValue{$6^d26^n04^v$}
 \def\svVrscikaVakya{\textit{\skta }}
 
-\def\mvDhanusValue{250}
+\def\mvDhanusValue{246}
 \def\mvDhanusVakya{\textit{\skta }}
 
-\def\svDhanusValue{$4^d38^n$}
+\def\svDhanusValue{$1^d02^n53^v$}
 \def\svDhanusVakya{\textit{\skta }}
 
-\def\mvMakaraValue{280}
+\def\mvMakaraValue{275}
 \def\mvMakaraVakya{\textit{\skta }}
 
-\def\svMakaraValue{$6^d31^n$}
+\def\svMakaraValue{$2^d29^n52^v$}
 \def\svMakaraVakya{\textit{\skta }}
 
-\def\mvKumbhaValue{309}
+\def\mvKumbhaValue{305}
 \def\mvKumbhaVakya{\textit{\skta }}
 
-\def\svKumbhaValue{$1^d29^n$}
+\def\svKumbhaValue{$4^d02^n20^v$}
 \def\svKumbhaVakya{\textit{\skta }}
 
-\def\mvMinaValue{340}
+\def\mvMinaValue{335}
 \def\mvMinaVakya{\textit{\skta }}
 
-\def\svMinaValue{$3^d48^n$}
+\def\svMinaValue{$5^d54^n23^v$}
 \def\svMinaVakya{\textit{\skta }}
 

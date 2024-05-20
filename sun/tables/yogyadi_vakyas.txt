@@ -1,11 +1,11 @@
 % Yogyadivakyas
 
 \def\yvMesaIsgn{$-$}
-\def\yvMesaI{$10'42''$}
+\def\yvMesaI{$10'41''$}
 \def\yvMesaIvakya{\textit{}}
 
 \def\yvMesaIIsgn{$-$}
-\def\yvMesaII{$12'43''$}
+\def\yvMesaII{$12'42''$}
 \def\yvMesaIIvakya{\textit{}}
 
 \def\yvMesaIIIsgn{$-$}
@@ -13,7 +13,7 @@
 \def\yvMesaIIIvakya{\textit{}}
 
 \def\yvMesaIVsgn{$-$}
-\def\yvMesaIV{$16'21''$}
+\def\yvMesaIV{$16'22''$}
 \def\yvMesaIVvakya{\textit{}}
 
 \def\yvVrsabhaIsgn{$-$}
@@ -21,19 +21,19 @@
 \def\yvVrsabhaIvakya{\textit{}}
 
 \def\yvVrsabhaIIsgn{$-$}
-\def\yvVrsabhaII{$19'6''$}
+\def\yvVrsabhaII{$19'06''$}
 \def\yvVrsabhaIIvakya{\textit{}}
 
 \def\yvVrsabhaIIIsgn{$-$}
-\def\yvVrsabhaIII{$20'17''$}
+\def\yvVrsabhaIII{$20'16''$}
 \def\yvVrsabhaIIIvakya{\textit{}}
 
 \def\yvVrsabhaIVsgn{$-$}
-\def\yvVrsabhaIV{$21'12''$}
+\def\yvVrsabhaIV{$21'11''$}
 \def\yvVrsabhaIVvakya{\textit{}}
 
 \def\yvMithunaIsgn{$-$}
-\def\yvMithunaI{$21'48''$}
+\def\yvMithunaI{$21'47''$}
 \def\yvMithunaIvakya{\textit{}}
 
 \def\yvMithunaIIsgn{$-$}
@@ -49,7 +49,7 @@
 \def\yvMithunaIVvakya{\textit{}}
 
 \def\yvKarkataIsgn{$-$}
-\def\yvKarkataI{$21'52''$}
+\def\yvKarkataI{$21'51''$}
 \def\yvKarkataIvakya{\textit{}}
 
 \def\yvKarkataIIsgn{$-$}
@@ -61,23 +61,23 @@
 \def\yvKarkataIIIvakya{\textit{}}
 
 \def\yvKarkataIVsgn{$-$}
-\def\yvKarkataIV{$19'8''$}
+\def\yvKarkataIV{$19'09''$}
 \def\yvKarkataIVvakya{\textit{}}
 
 \def\yvSimhaIsgn{$-$}
-\def\yvSimhaI{$17'52''$}
+\def\yvSimhaI{$17'54''$}
 \def\yvSimhaIvakya{\textit{}}
 
 \def\yvSimhaIIsgn{$-$}
-\def\yvSimhaII{$16'18''$}
+\def\yvSimhaII{$16'20''$}
 \def\yvSimhaIIvakya{\textit{}}
 
 \def\yvSimhaIIIsgn{$-$}
-\def\yvSimhaIII{$14'33''$}
+\def\yvSimhaIII{$14'35''$}
 \def\yvSimhaIIIvakya{\textit{}}
 
 \def\yvSimhaIVsgn{$-$}
-\def\yvSimhaIV{$12'39''$}
+\def\yvSimhaIV{$12'40''$}
 \def\yvSimhaIVvakya{\textit{}}
 
 \def\yvKanyaIsgn{$-$}
@@ -85,110 +85,110 @@
 \def\yvKanyaIvakya{\textit{}}
 
 \def\yvKanyaIIsgn{$-$}
-\def\yvKanyaII{$8'48''$}
+\def\yvKanyaII{$08'47''$}
 \def\yvKanyaIIvakya{\textit{}}
 
 \def\yvKanyaIIIsgn{$-$}
-\def\yvKanyaIII{$6'38''$}
+\def\yvKanyaIII{$06'37''$}
 \def\yvKanyaIIIvakya{\textit{}}
 
 \def\yvKanyaIVsgn{$-$}
-\def\yvKanyaIV{$4'27''$}
+\def\yvKanyaIV{$04'27''$}
 \def\yvKanyaIVvakya{\textit{}}
 
 \def\yvTulaIsgn{$-$}
-\def\yvTulaI{$2'41''$}
+\def\yvTulaI{$02'42''$}
 \def\yvTulaIvakya{\textit{}}
 
 \def\yvTulaIIsgn{$-$}
-\def\yvTulaII{$0'35''$}
+\def\yvTulaII{$00'37''$}
 \def\yvTulaIIvakya{\textit{}}
 
 \def\yvTulaIIIsgn{$+$}
-\def\yvTulaIII{$1'24''$}
+\def\yvTulaIII{$01'22''$}
 \def\yvTulaIIIvakya{\textit{}}
 
 \def\yvTulaIVsgn{$+$}
-\def\yvTulaIV{$3'14''$}
+\def\yvTulaIV{$03'12''$}
 \def\yvTulaIVvakya{\textit{}}
 
 \def\yvVrscikaIsgn{$+$}
-\def\yvVrscikaI{$4'29''$}
+\def\yvVrscikaI{$04'28''$}
 \def\yvVrscikaIvakya{\textit{}}
 
 \def\yvVrscikaIIsgn{$+$}
-\def\yvVrscikaII{$5'57''$}
+\def\yvVrscikaII{$05'56''$}
 \def\yvVrscikaIIvakya{\textit{}}
 
 \def\yvVrscikaIIIsgn{$+$}
-\def\yvVrscikaIII{$7'10''$}
+\def\yvVrscikaIII{$07'10''$}
 \def\yvVrscikaIIIvakya{\textit{}}
 
 \def\yvVrscikaIVsgn{$+$}
-\def\yvVrscikaIV{$8'7''$}
+\def\yvVrscikaIV{$08'08''$}
 \def\yvVrscikaIVvakya{\textit{}}
 
 \def\yvDhanusIsgn{$+$}
-\def\yvDhanusI{$8'37''$}
+\def\yvDhanusI{$08'37''$}
 \def\yvDhanusIvakya{\textit{}}
 
 \def\yvDhanusIIsgn{$+$}
-\def\yvDhanusII{$9'4''$}
+\def\yvDhanusII{$09'04''$}
 \def\yvDhanusIIvakya{\textit{}}
 
 \def\yvDhanusIIIsgn{$+$}
-\def\yvDhanusIII{$9'11''$}
+\def\yvDhanusIII{$09'11''$}
 \def\yvDhanusIIIvakya{\textit{}}
 
 \def\yvDhanusIVsgn{$+$}
-\def\yvDhanusIV{$8'59''$}
+\def\yvDhanusIV{$08'59''$}
 \def\yvDhanusIVvakya{\textit{}}
 
 \def\yvMakaraIsgn{$+$}
-\def\yvMakaraI{$8'39''$}
+\def\yvMakaraI{$08'39''$}
 \def\yvMakaraIvakya{\textit{}}
 
 \def\yvMakaraIIsgn{$+$}
-\def\yvMakaraII{$7'55''$}
+\def\yvMakaraII{$07'56''$}
 \def\yvMakaraIIvakya{\textit{}}
 
 \def\yvMakaraIIIsgn{$+$}
-\def\yvMakaraIII{$6'54''$}
+\def\yvMakaraIII{$06'54''$}
 \def\yvMakaraIIIvakya{\textit{}}
 
 \def\yvMakaraIVsgn{$+$}
-\def\yvMakaraIV{$5'37''$}
+\def\yvMakaraIV{$05'37''$}
 \def\yvMakaraIVvakya{\textit{}}
 
 \def\yvKumbhaIsgn{$+$}
-\def\yvKumbhaI{$4'35''$}
+\def\yvKumbhaI{$04'34''$}
 \def\yvKumbhaIvakya{\textit{}}
 
 \def\yvKumbhaIIsgn{$+$}
-\def\yvKumbhaII{$2'54''$}
+\def\yvKumbhaII{$02'53''$}
 \def\yvKumbhaIIvakya{\textit{}}
 
 \def\yvKumbhaIIIsgn{$+$}
-\def\yvKumbhaIII{$1'2''$}
+\def\yvKumbhaIII{$01'01''$}
 \def\yvKumbhaIIIvakya{\textit{}}
 
 \def\yvKumbhaIVsgn{$-$}
-\def\yvKumbhaIV{$0'59''$}
+\def\yvKumbhaIV{$00'59''$}
 \def\yvKumbhaIVvakya{\textit{}}
 
 \def\yvMinaIsgn{$-$}
-\def\yvMinaI{$2'32''$}
+\def\yvMinaI{$02'31''$}
 \def\yvMinaIvakya{\textit{}}
 
 \def\yvMinaIIsgn{$-$}
-\def\yvMinaII{$4'42''$}
+\def\yvMinaII{$04'40''$}
 \def\yvMinaIIvakya{\textit{}}
 
 \def\yvMinaIIIsgn{$-$}
-\def\yvMinaIII{$6'53''$}
+\def\yvMinaIII{$06'51''$}
 \def\yvMinaIIIvakya{\textit{}}
 
 \def\yvMinaIVsgn{$-$}
-\def\yvMinaIV{$9'3''$}
+\def\yvMinaIV{$09'00''$}
 \def\yvMinaIVvakya{\textit{}}
 

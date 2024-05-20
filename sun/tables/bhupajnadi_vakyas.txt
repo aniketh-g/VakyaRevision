@@ -1,0 +1,113 @@
+% Bhupajnadivakyas
+
+\def\bvIValue{$13'40''$}
+\def\bvIVakya{\textit{\skta }}
+
+\def\bvIIValue{$30'28''$}
+\def\bvIIVakya{\textit{\skta }}
+
+\def\bvIIIValue{$50'7''$}
+\def\bvIIIVakya{\textit{\skta }}
+
+\def\bvIVValue{$72'17''$}
+\def\bvIVVakya{\textit{\skta }}
+
+\def\bvVValue{$96'34''$}
+\def\bvVVakya{\textit{\skta }}
+
+\def\bvVIValue{$122'31''$}
+\def\bvVIVakya{\textit{\skta }}
+
+\def\bvVIIValue{$149'39''$}
+\def\bvVIIVakya{\textit{\skta }}
+
+\def\bvVIIIValue{$177'26''$}
+\def\bvVIIIVakya{\textit{\skta }}
+
+\def\bvIXValue{$205'20''$}
+\def\bvIXVakya{\textit{\skta }}
+
+\def\bvXValue{$232'50''$}
+\def\bvXVakya{\textit{\skta }}
+
+\def\bvXIValue{$259'25''$}
+\def\bvXIVakya{\textit{\skta }}
+
+\def\bvXIIValue{$284'33''$}
+\def\bvXIIVakya{\textit{\skta }}
+
+\def\bvXIIIValue{$307'47''$}
+\def\bvXIIIVakya{\textit{\skta }}
+
+\def\bvXIVValue{$328'41''$}
+\def\bvXIVVakya{\textit{\skta }}
+
+\def\bvXVValue{$346'53''$}
+\def\bvXVVakya{\textit{\skta }}
+
+\def\bvXVIValue{$362'5''$}
+\def\bvXVIVakya{\textit{\skta }}
+
+\def\bvXVIIValue{$374'2''$}
+\def\bvXVIIVakya{\textit{\skta }}
+
+\def\bvXVIIIValue{$382'38''$}
+\def\bvXVIIIVakya{\textit{\skta }}
+
+\def\bvXIXValue{$387'50''$}
+\def\bvXIXVakya{\textit{\skta }}
+
+\def\bvXXValue{$389'43''$}
+\def\bvXXVakya{\textit{\skta }}
+
+\def\bvXXIValue{$388'26''$}
+\def\bvXXIVakya{\textit{\skta }}
+
+\def\bvXXIIValue{$384'17''$}
+\def\bvXXIIVakya{\textit{\skta }}
+
+\def\bvXXIIIValue{$377'37''$}
+\def\bvXXIIIVakya{\textit{\skta }}
+
+\def\bvXXIVValue{$368'55''$}
+\def\bvXXIVVakya{\textit{\skta }}
+
+\def\bvXXVValue{$358'42''$}
+\def\bvXXVVakya{\textit{\skta }}
+
+\def\bvXXVIValue{$347'33''$}
+\def\bvXXVIVakya{\textit{\skta }}
+
+\def\bvXXVIIValue{$336'5''$}
+\def\bvXXVIIVakya{\textit{\skta }}
+
+\def\bvXXVIIIValue{$324'55''$}
+\def\bvXXVIIIVakya{\textit{\skta }}
+
+\def\bvXXIXValue{$314'42''$}
+\def\bvXXIXVakya{\textit{\skta }}
+
+\def\bvXXXValue{$305'59''$}
+\def\bvXXXVakya{\textit{\skta }}
+
+\def\bvXXXIValue{$299'19''$}
+\def\bvXXXIVakya{\textit{\skta }}
+
+\def\bvXXXIIValue{$295'9''$}
+\def\bvXXXIIVakya{\textit{\skta }}
+
+\def\bvXXXIIIValue{$293'52''$}
+\def\bvXXXIIIVakya{\textit{\skta }}
+
+\def\bvXXXIVValue{$295'44''$}
+\def\bvXXXIVVakya{\textit{\skta }}
+
+\def\bvXXXVValue{$300'56''$}
+\def\bvXXXVVakya{\textit{\skta }}
+
+\def\bvXXXVIValue{$309'31''$}
+\def\bvXXXVIVakya{\textit{\skta }}
+
+\def\bvXXXVIIValue{$21921'28''$}
+\def\bvXXXVIIVakya{\textit{\skta }}
+
