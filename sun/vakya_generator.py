@@ -160,8 +160,8 @@ def print_yogyadi_vakyas(ag, filepath, month_name, sun_algorithm):
         with open(filepath, 'a') as vakya_file:
             vakya_file.write(format_yogyadi_vakya(vakyas[i], month_name, intToRoman(i)))
 
-yogyadi_file = './tables/yogyadi_vakyas.txt'
-rashi_file = './tables/rashi_vakyas.txt'
+yogyadi_file = './tables/yogyadi_vakyas.tex'
+rashi_file = './tables/rashi_vakyas.tex'
 with open(yogyadi_file, 'w') as vakya_file: vakya_file.write("% Yogyadivakyas\n\n")
 with open(rashi_file, 'w') as vakya_file: vakya_file.write("% Rashivakyas\n\n")
 
@@ -180,7 +180,7 @@ for i in range(12):
 print("Computed Yogyadi Vakyas:\t\t%s"%yogyadi_file)
 print("Computed Masa and Sankranti Vakyas:\t%s"%rashi_file)
 
-naksatra_file = './tables/naksatra_vakyas.txt'
+naksatra_file = './tables/naksatra_vakyas.tex'
 with open(naksatra_file, 'w') as vakya_file: vakya_file.write("% Naksatravakyas\n\n")
 
 ag=0
@@ -195,7 +195,7 @@ for i in range(27):
         vakya_file.write(format_naksatra_vakyas(delta_naks, naksatras[i+1]))
 print("Computed Naksatra Vakyas:\t\t%s"%naksatra_file)
 
-bhupajnadi_file = './tables/bhupajnadi_vakyas.txt'
+bhupajnadi_file = './tables/bhupajnadi_vakyas.tex'
 with open(bhupajnadi_file, 'w') as vakya_file: vakya_file.write("% Bhupajnadivakyas\n\n")
 ag=0
 ag0=sid.get_ag(sun_mandasphuta, 0, ag, 1)
